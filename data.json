@@ -1,14 +1,14 @@
 [
     {
         "id": 1,
-        "name": "Tell Me You Love Me",
+        "name": "Tell Me You Love Me - Demi Lovato",
         "price": 42.49,
         "rating": 4,
         "image": "https://raw.githubusercontent.com/Felipe635/Slider-produtos-json/main/capa-tell.webp"
     },
     {
         "id": 2,
-        "name": "Você Aprendeu A Amar?",
+        "name": "Você Aprendeu A Amar? - Priscilla Alcantara",
         "price": 19.99,
         "rating": 5,
         "image": "https://raw.githubusercontent.com/Felipe635/Slider-produtos-json/main/capa-vaaa.webp"
