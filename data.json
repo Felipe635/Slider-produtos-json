@@ -4,7 +4,7 @@
         "name": "Tell Me You Love Me",
         "price": 42.49,
         "rating": 4,
-        "image": "img-cafe.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/pt/4/4a/Demi_Lovato_-_Tell_Me_You_Love_Me.jpg"
     },
     {
         "id": 2,
